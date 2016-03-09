@@ -1,0 +1,28 @@
+{
+  "name": "ng-safeapply",
+  "version": "1.0.0",
+  "description": "angular apply tools",
+  "main": "ng-safeapply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyang/ng-safeapply.git"
+  },
+  "keywords": [
+    "angular",
+    "apply"
+  ],
+  "author": "ymyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyang/ng-safeapply/issues"
+  },
+  "homepage": "https://github.com/ymyang/ng-safeapply#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ext-replace": "^0.2.0",
+    "gulp-uglify": "^1.5.3"
+  }
+}
